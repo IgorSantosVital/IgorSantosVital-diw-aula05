@@ -1,3 +1,20 @@
+#h1 {
+    color: red; margin: middle; text-align: center; font-style: italic;
+}
 #p1 {
-    color: blue;
+    color: blue; font-family: Arial; font-size: 30px; text-align: justify
+}
+
+#p2 {
+    color: green; font-size: 40px; font-family: Times New Roman; text-align: left;
+    font-weight: bold; font-style: italic;
+}
+
+#p3 {
+    color: gray; font-size: 20px; font-family: Comic Sans MS; text-align: right; text-decoration: line-through;
+}
+
+#p4 {
+    color: Brown; font-size: 10px; font-family: Verdana; text-align: center; font-weight: Bold; 
+    text-decoration: underline;
 }
