@@ -5,7 +5,8 @@ body{
     }
     
 .estilo1 {
-      color: cyan
+      color: cyan;
+      font-weight: bold;
     }
 .estilo2 {  
   color: red;
@@ -18,4 +19,5 @@ body{
 }
 .estilo5{
   color: LightGray;
+  font-style: italic;
 }
